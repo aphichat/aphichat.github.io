@@ -1,2 +1,2 @@
-Hello World
-From deploy app
+<?php
+  phpinfo();
